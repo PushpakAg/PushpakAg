@@ -1,5 +1,5 @@
 <h1 align="center">Welcome!</h1>
-<p align="left">I am passionate about machine learning and deep learning, with a strong foundation in TensorFlow. My journey in this field has been both exciting and rewarding.Curently I am leanring about more advanced neural networks and want to explore the realms of generative AI. </p>
+<p align="center">I am passionate about machine learning and deep learning, with a strong foundation in TensorFlow. My journey in this field has been both exciting and rewarding.Curently I am leanring about more advanced neural networks and want to explore the realms of generative AI. </p>
 
 - 🔭 I’m currently working on **WCEBloodGen Challenge**
 
